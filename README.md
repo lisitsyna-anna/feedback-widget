@@ -14,7 +14,7 @@ The application is built using React, TypeScript, Styled-Components, and Styled-
 To run this application locally on your computer, you need to have TypeScript installed globally.
 
 1. Clone this repository: git clone https://github.com/lisitsyna-anna/feedback-widget
-2. Change into the project directory: cd image-search-engine
+2. Change into the project directory: cd feedback-widget
 3. Install the dependencies: npm install
 4. Start the development server: npm start
 5. Open your browser and visit http://localhost:3000 to view the application.
